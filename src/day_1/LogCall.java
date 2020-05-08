@@ -4,6 +4,8 @@ public class LogCall {
     public static void main(String[] args) {
 
         System.out.println("Be happy, all will be nice");
+        
+        System.out.println("Changed version");
 
     }
 }
